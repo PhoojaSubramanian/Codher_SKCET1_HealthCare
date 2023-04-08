@@ -1,0 +1,12 @@
+{
+    "Beds" : 
+    [   
+        {
+            "_id": "63d22b86c316873d80447500",
+            "bedNumber": 1,
+            "roomNumber": 1,
+            "occupied": "available",
+            "__v": 0
+        }
+    ]
+}
